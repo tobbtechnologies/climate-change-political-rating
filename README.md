@@ -1,4 +1,4 @@
-# Climate Change Political Rating
+# Climate Change Political Rating App
 
 According to UN, 'Tackling Climate Change','Why we need action. Climate change is now affecting every country on every continent. It is disrupting national economies 
 and affecting lives, costing people, communities and countries dearly today and even more tomorrow.'(https://www.un.org/sustainabledevelopment/climate-action/)
