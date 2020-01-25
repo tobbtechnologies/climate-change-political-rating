@@ -1,0 +1,18 @@
+The app should have the following broad structures:
+
+1. Authentication 
+  - Social media
+  - or register with username, password, email - new user should verify account via email
+2. Search for Politicical Figures on search bar or from Directory listing of all countries
+  - if the Political Figure does not exist user can add the person and profile image
+  - added data must not be public until verified by admin
+3. Ratings
+  - rate the person out of 5, no user data input should be allowed 
+4. All people should be able to view a graph showing ratings per country, region, town, city etc
+5. Back End 
+  - Admin login 
+  - settings
+  - moderation of added persons
+  
+  
+  Ionic Framework should be used to develop this app. Anyone anywhere is free to contribute.
